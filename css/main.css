@@ -1,18 +1,22 @@
+/* line 1, /Users/noah/Dropbox/programming/projects/skelcey/css/main.scss */
 .title {
   height: 100%;
   width: 100%; }
 
+/* line 6, /Users/noah/Dropbox/programming/projects/skelcey/css/main.scss */
 h1 {
   font-family: "PaddingtonSC";
   font-size: 72px;
   color: #4d4d4d; }
 
+/* line 12, /Users/noah/Dropbox/programming/projects/skelcey/css/main.scss */
 h2 {
   font-family: "Jura";
   font-style: bold;
   font-size: 57px;
   margin-bottom: -15px; }
 
+/* line 19, /Users/noah/Dropbox/programming/projects/skelcey/css/main.scss */
 h4 {
   font-family: "Jura";
   font-size: "38px";
@@ -21,9 +25,22 @@ h4 {
   color: #808080;
   font-weight: 400; }
 
+/* line 28, /Users/noah/Dropbox/programming/projects/skelcey/css/main.scss */
 p {
   font-size: 18px;
   font-family: "Karla";
   line-height: 1.5; }
+
+/* line 34, /Users/noah/Dropbox/programming/projects/skelcey/css/main.scss */
+section.title {
+  /* title style */ }
+
+/* line 53, /Users/noah/Dropbox/programming/projects/skelcey/css/main.scss */
+section.portfolio {
+  /* general portfolio style */ }
+
+/* line 73, /Users/noah/Dropbox/programming/projects/skelcey/css/main.scss */
+.portfolio__bees {
+  /* specific portfolio style */ }
 
 /*# sourceMappingURL=main.css.map */

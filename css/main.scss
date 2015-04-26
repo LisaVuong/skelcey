@@ -30,3 +30,46 @@ p{
 	font-family: "Karla";
 	line-height: 1.5;
 }
+
+section.title {
+    /* title style */
+    
+    h1 {}
+    
+    h2 {}
+    
+    a {
+        img {}
+        span {}
+    }
+}
+
+section.about {
+    h4 {}
+    
+    p {}
+}
+
+section.portfolio {
+    /* general portfolio style */
+    
+    h2 {}
+    
+    p {}
+}
+
+.project-list {
+    li {}
+    
+    aside {}
+}
+
+.content {
+    h3 {}
+    h4 {}
+    p {}
+}
+
+.portfolio__bees {
+    /* specific portfolio style */
+}
